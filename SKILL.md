@@ -3,8 +3,9 @@ name: ideology-critique
 description: Expose how ideas that appear natural, inevitable, or neutral actually emerged from historical conditions and serve particular class interests. Denaturalize the given, historicize the eternal, revea...
 license: MIT
 metadata:
+  version: 1.0.4199
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ideology-critique
 - transformation
